@@ -102,3 +102,6 @@ function newGame(){
   playGame = true
   })
 }
+
+
+
